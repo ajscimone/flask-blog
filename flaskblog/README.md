@@ -1,6 +1,5 @@
 # flask-blog
 
-
 On windows, you must set flask in the environment using:
 "set FLASK_APP=flaskblog.py"
 
